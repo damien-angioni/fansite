@@ -1,5 +1,6 @@
 @charset "utf-8";
 /* CSS Document */
+/*Header*/
 p article li {
     font-size: 24px;  
 }
@@ -33,7 +34,13 @@ h2 {
     right: 0px;
     list-style-type:none;
 }
-
+#barcorect{
+    top: 849px;
+    width: 1500px;
+    position: absolute;
+    left: -3px;
+    height: 24px;
+}
 #nav1{
     position: absolute;
     top: 895px;
@@ -144,6 +151,8 @@ h2 {
     background-attachment: fixed;
     background-size: cover;
 }
+/*Main*/
+/*Index*/
 #descimg{
     width: 478px;
     height: auto;
@@ -206,10 +215,188 @@ h2 {
     top: 2241px;
     left: 304px;
 }
-
-
-
-
-/*
--webkit-transform: scaleX(-1);
-transform: scaleX(-1);*/
+#bevi{
+    width: 457px;
+    height: 224px;
+    position: absolute;
+    top: 2200px;
+    left: 745px;
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+#bevid{
+    width: 427px;
+    height: 177px;
+    position: absolute;
+    top: 2241px;
+    left: 760px;
+}
+#ipot1{
+    width: auto;
+    height: 224px;
+    position: absolute;
+    top: 2200px;
+    left: 261px;
+}
+#ipot2{
+    width: auto;
+    height: 224px;
+    position: absolute;
+    top: 2200px;
+    left: 1200px;
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+#twitcher{
+    width: 250px;
+    height: auto;
+    position: absolute;
+    top: 2530px;
+    left: 626px;
+}
+#naruto {
+    display: block;
+    text-align: center;
+    color:gold;
+    position: absolute;
+    top: 2610px;
+    left: 30px;
+    font-family: 'LifeCraft';
+    font-size: 32px;
+}
+#exredba{
+    width: 457px;
+    height: 224px;
+    position: absolute;
+    top: 2800px;
+    left: 290px;
+}
+#exred{
+    width: 427px;
+    height: 177px;
+    position: absolute;
+    top: 2841px;
+    left: 304px;
+}
+#excliba{
+    width: 457px;
+    height: 224px;
+    position: absolute;
+    top: 2800px;
+    left: 745px;
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+#excli {
+    width: 427px;
+    height: 177px;
+    position: absolute;
+    top: 2841px;
+    left: 760px;
+}
+#ipot3{
+    width: auto;
+    height: 224px;
+    position: absolute;
+    top: 2800px;
+    left: 261px;
+}
+#ipot4{
+    width: auto;
+    height: 224px;
+    position: absolute;
+    top: 2800px;
+    left: 1200px;
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+/*Footer*/
+/*Index*/
+#ifoot{
+    position: absolute;
+    top: 3110px;
+    left: -10px;
+    width: 1546px;
+    height: auto;
+    object-fit: fill;
+}
+#footover a{
+    font-family: 'LifeCraft';
+    font-size: 24px;
+    text-align: center;
+    color:gold;
+    text-decoration:none;
+}
+#footover :hover {
+    color: white;
+}
+#ifootb1{
+    position: absolute;
+    top: 3200px;
+    left: 35px;
+    width: 255px;
+    height: auto;
+}
+#ifootl1{
+    position: absolute;
+    top: 3200px;
+    left: 35px;
+    width: 255px;
+    height: 24px;
+}
+#ifootb2{
+    position: absolute;
+    top: 3200px;
+    left: 335px;
+    width: 255px;
+    height: auto;
+}
+#ifootl2{
+    position: absolute;
+    top: 3220px;
+    left: 335px;
+    width: 255px;
+    height: 24px;
+}
+#ifootb3{
+    position: absolute;
+    top: 3200px;
+    left: 635px;
+    width: 255px;
+    height: auto;
+}
+#ifootl3{
+    position: absolute;
+    top: 3220px;
+    left: 635px;
+    width: 255px;
+    height: 24px;
+}
+#ifootb4{
+    position: absolute;
+    top: 3200px;
+    left: 935px;
+    width: 255px;
+    height: auto;
+}
+#ifootl4{
+    position: absolute;
+    top: 3220px;
+    left: 935px;
+    width: 255px;
+    height: 24px;
+}
+#ifootb5{
+    position: absolute;
+    top: 3200px;
+    left: 1235px;
+    width: 255px;
+    height: auto;
+}
+#ifootl5{
+    position: absolute;
+    top: 3220px;
+    left: 1235px;
+    width: 255px;
+    height: 24px;
+}
