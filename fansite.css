@@ -1,6 +1,6 @@
 @charset "utf-8";
 /* CSS Document */
-/*Header*/
+/*Header (pour toute les pages)*/
 p article li {
     font-size: 24px;  
 }
@@ -123,7 +123,7 @@ h2 {
     right: 86px;
     font-size: 35px;
     font-family: 'LifeCraft';
-    color:gold;
+   color:gold; 
     text-decoration:none;
     text-align: center;
     width: 312px;
@@ -310,16 +310,167 @@ h2 {
     -webkit-transform: scaleX(-1);
     transform: scaleX(-1);
 }
-/*Footer*/
-/*Index*/
-#ifoot{
+/*Best of*/
+#music{
     position: absolute;
-    top: 3110px;
-    left: -10px;
-    width: 1546px;
-    height: auto;
-    object-fit: fill;
+    top: 1300px;
+    left: 570px;
+    color:gold;
+    font-family: 'LifeCraft';
 }
+#musicmet1{
+    width: 457px;
+    height: 224px;
+    position: absolute;
+    top: 1420px;
+    left: 290px;
+}
+#musicmet2{
+    width: 457px;
+    height: 224px;
+    position: absolute;
+    top: 1420px;
+    left: 745px;
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+#musicvid1{
+    width: 427px;
+    height: 177px;
+    position: absolute;
+    top: 1459px;
+    left: 304px;
+}
+#musicvid2{
+    width: 427px;
+    height: 177px;
+    position: absolute;
+    top: 1459px;
+    left: 760px;
+}
+#bpot1{
+    width: auto;
+    height: 224px;
+    position: absolute;
+    top: 1420px;
+    left: 261px;
+}
+#bpot2{
+    width: auto;
+    height: 224px;
+    position: absolute;
+    top: 1420px;
+    left: 1200px;
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+#humour{
+    position: absolute;
+    top: 1700px;
+    left: 570px;
+    color:gold;
+    font-family: 'LifeCraft';
+}
+#humourmet1{
+    width: 457px;
+    height: 224px;
+    position: absolute;
+    top: 1820px;
+    left: 290px;
+}
+#humourmet2{
+    width: 457px;
+    height: 224px;
+    position: absolute;
+    top: 1820px;
+    left: 745px;
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+#humourvid1{
+    width: 427px;
+    height: 177px;
+    position: absolute;
+    top: 1859px;
+    left: 304px;
+}
+#humourvid2{
+    width: 427px;
+    height: 177px;
+    position: absolute;
+    top: 1859px;
+    left: 760px;
+}
+#bpot3{
+    width: auto;
+    height: 224px;
+    position: absolute;
+    top: 1820px;
+    left: 261px;
+}
+#bpot4{
+    width: auto;
+    height: 224px;
+    position: absolute;
+    top: 1820px;
+    left: 1200px;
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+#guide{
+    position: absolute;
+    top: 2100px;
+    left: 570px;
+    color:gold;
+    font-family: 'LifeCraft';
+}
+#guidemet1{
+    width: 457px;
+    height: 224px;
+    position: absolute;
+    top: 2220px;
+    left: 290px;
+}
+#guidemet2{
+    width: 457px;
+    height: 224px;
+    position: absolute;
+    top: 2220px;
+    left: 745px;
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+#guidevid1{
+    width: 427px;
+    height: 177px;
+    position: absolute;
+    top: 2259px;
+    left: 304px;
+}
+#guidevid2{
+    width: 427px;
+    height: 177px;
+    position: absolute;
+    top: 2259px;
+    left: 760px;
+}
+#bpot5{
+    width: auto;
+    height: 224px;
+    position: absolute;
+    top: 2220px;
+    left: 261px;
+}
+#bpot6{
+    width: auto;
+    height: 224px;
+    position: absolute;
+    top: 2220px;
+    left: 1200px;
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+/*Footer*/
 #footover a{
     font-family: 'LifeCraft';
     font-size: 24px;
@@ -329,6 +480,15 @@ h2 {
 }
 #footover :hover {
     color: white;
+}
+/*Index*/
+#ifoot{
+    position: absolute;
+    top: 3110px;
+    left: -10px;
+    width: 1546px;
+    height: auto;
+    object-fit: fill;
 }
 #ifootb1{
     position: absolute;
@@ -396,6 +556,85 @@ h2 {
 #ifootl5{
     position: absolute;
     top: 3220px;
+    left: 1235px;
+    width: 255px;
+    height: 24px;
+}
+/*Best of*/
+#bfoot{
+    position: absolute;
+    top: 2480px;
+    left: -10px;
+    width: 1546px;
+    height: auto;
+    object-fit: fill;
+}
+#bfootb1{
+    position: absolute;
+    top: 2570px;
+    left: 35px;
+    width: 255px;
+    height: auto;
+}
+#bfootl1{
+    position: absolute;
+    top: 2565px;
+    left: 35px;
+    width: 255px;
+    height: 24px;
+}
+#bfootb2{
+    position: absolute;
+    top: 2570px;
+    left: 335px;
+    width: 255px;
+    height: auto;
+}
+#bfootl2{
+    position: absolute;
+    top: 2590px;
+    left: 335px;
+    width: 255px;
+    height: 24px;
+}
+#bfootb3{
+    position: absolute;
+    top: 2570px;
+    left: 635px;
+    width: 255px;
+    height: auto;
+}
+#bfootl3{
+    position: absolute;
+    top: 2590px;
+    left: 635px;
+    width: 255px;
+    height: 24px;
+}
+#bfootb4{
+    position: absolute;
+    top: 2570px;
+    left: 935px;
+    width: 255px;
+    height: auto;
+}
+#bfootl4{
+    position: absolute;
+    top: 2590px;
+    left: 935px;
+    width: 255px;
+    height: 24px;
+}
+#bfootb5{
+    position: absolute;
+    top: 2570px;
+    left: 1235px;
+    width: 255px;
+    height: auto;
+}
+#bfootl5{
+    position: absolute;
+    top: 2590px;
     left: 1235px;
     width: 255px;
     height: 24px;
