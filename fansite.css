@@ -1,0 +1,215 @@
+@charset "utf-8";
+/* CSS Document */
+p article li {
+    font-size: 24px;  
+}
+h1 {
+    font-size: 75px;
+    font-family: 'LifeCraft';
+}
+h2 {
+    font-size: 32px;
+}
+#bannerback{
+    position: absolute;
+    top: -10px;
+    left: -10px;
+    width: 1546px;
+    height: auto;
+    object-fit: fill;
+}
+#bannerover{
+    opacity: 0%;
+    width: 478px;
+    height: 490px;
+    position: absolute;
+    top: 177px;
+    left: 544px;
+}
+#navigation{
+    width: 478px;
+    position: absolute;
+    top: 824px;
+    right: 0px;
+    list-style-type:none;
+}
+
+#nav1{
+    position: absolute;
+    top: 895px;
+    right: 86px;
+    font-size: 35px;
+    font-family: 'LifeCraft';
+    color:gold;
+    text-decoration:none;
+    text-align: center;
+    width: 312px;
+    height: 38px;
+}
+#nav1 a {
+    color:gold;
+    text-decoration:none;
+}
+#nav1:hover {
+    color: white;
+}
+#nav2{
+    position: absolute;
+    top: 1000px;
+    right: 86px;
+    font-size: 35px;
+    font-family: 'LifeCraft';
+    color:gold;
+    text-decoration:none;
+    text-align: center;
+    width: 312px;
+    height: 38px;
+}
+#nav2 a {
+    color:gold;
+    text-decoration:none;
+}
+#nav2:hover {
+    color: white;
+}
+#nav3{
+    position: absolute;
+    top: 1068px;
+    right: 86px;
+    font-size: 35px;
+    font-family: 'LifeCraft';
+    color:gold;
+    text-decoration:none;
+    text-align: center;
+    width: 312px;
+    height: 38px;
+}
+#nav3 a {
+    color:gold;
+    text-decoration:none;
+}
+#nav3:hover {
+    color: white;
+}
+#nav4{
+    position: absolute;
+    top: 1138px;
+    right: 86px;
+    font-size: 35px;
+    font-family: 'LifeCraft';
+    color:gold;
+    text-decoration:none;
+    text-align: center;
+    width: 312px;
+    height: 38px;
+}
+#nav4 a {
+    color:gold;
+    text-decoration:none;
+}
+#nav4:hover {
+    color: white;
+}
+#nav5{
+    position: absolute;
+    top: 1210px;
+    right: 86px;
+    font-size: 35px;
+    font-family: 'LifeCraft';
+    color:gold;
+    text-decoration:none;
+    text-align: center;
+    width: 312px;
+    height: 38px;
+}
+#nav5 a {
+    color:gold;
+    text-decoration:none;
+}
+#nav5:hover {
+    color: white;
+}
+#headblock {
+    display: block;
+    text-align: center;
+    color:gold;
+    position: absolute;
+    top: 985px;
+    right: 600px;
+}
+#backgroundimage {
+    background-image: url("resources/background.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#descimg{
+    width: 478px;
+    height: auto;
+    position: absolute;
+    top: 1290px;
+    left: 85px;
+}
+#desctitle{
+    font-family: 'LifeCraft';
+    width: 405px;
+    color:#BB0000;
+    position: absolute;
+    top: 1400px;
+    left: 115px;
+}
+#desctext{
+    width: 405px;
+    height: 487px;
+    position: absolute;
+    top: 1447px;
+    left: 115px;
+    font-size: 35px;
+    font-family: 'Times New Roman';
+}
+#loreimg{
+    width: 478px;
+    height: auto;
+    position: absolute;
+    top: 1290px;
+    left: 985px;
+}
+#loretitle{
+    font-family: 'LifeCraft';
+    width: 405px;
+    color:#BB0000;
+    position: absolute;
+    top: 1400px;
+    left: 1015px;
+}
+#loretext{
+    width: 405px;
+    height: 487px;
+    position: absolute;
+    top: 1447px;
+    left: 1015px;
+    font-size: 35px;
+    font-family: 'Times New Roman';
+}
+#fivi{
+    width: 457px;
+    height: 224px;
+    position: absolute;
+    top: 2200px;
+    left: 290px;
+}
+#fivid{
+    width: 427px;
+    height: 177px;
+    position: absolute;
+    top: 2241px;
+    left: 304px;
+}
+
+
+
+
+/*
+-webkit-transform: scaleX(-1);
+transform: scaleX(-1);*/
