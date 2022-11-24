@@ -470,6 +470,72 @@ h2 {
     -webkit-transform: scaleX(-1);
     transform: scaleX(-1);
 }
+/*Communauté*/
+#joinus{
+    position: absolute;
+    top: 1300px;
+    left: 150px;
+    color:gold;
+    font-family: 'LifeCraft';
+}
+#discord{
+    position: absolute;
+    top: 1300px;
+    left: 850px;
+}
+#insta{
+    position: absolute;
+    top: 1450px;
+    left: 150px;
+    width: 175px;
+    height: 175px;
+}
+#tweeter{
+    position: absolute;
+    top: 1450px;
+    left: 350px;
+    width: 175px;
+    height: 175px;
+}
+#pinterest{
+    position: absolute;
+    top: 1450px;
+    left: 550px;
+    width: 175px;
+    height: 175px;
+}
+/*YT et TW*/
+#contaquest{
+    width: 478px;
+    height: auto;
+    position: absolute;
+    top: 1190px;
+    left: 185px;
+}
+#descriptitle{
+    font-family: 'LifeCraft';
+    width: 405px;
+    color:#BB0000;
+    position: absolute;
+    top: 1300px;
+    left: 215px;
+}
+#descriptif{
+    width: 405px;
+    height: 487px;
+    position: absolute;
+    top: 1347px;
+    left: 215px;
+    font-size: 35px;
+    font-family: 'Times New Roman';
+}
+#seal{
+    width: 85px;
+    height: 85px;
+    position: absolute;
+    top: 1725px;
+    left: 365px;
+}
 /*Footer*/
 #footover a{
     font-family: 'LifeCraft';
@@ -635,6 +701,164 @@ h2 {
 #bfootl5{
     position: absolute;
     top: 2590px;
+    left: 1235px;
+    width: 255px;
+    height: 24px;
+}
+/*Communauté*/
+#cfoot{
+    position: absolute;
+    top: 1850px;
+    left: -10px;
+    width: 1546px;
+    height: auto;
+    object-fit: fill;
+}
+#cfootb1{
+    position: absolute;
+    top: 1940px;
+    left: 35px;
+    width: 255px;
+    height: auto;
+}
+#cfootl1{
+    position: absolute;
+    top: 1935px;
+    left: 35px;
+    width: 255px;
+    height: 24px;
+}
+#cfootb2{
+    position: absolute;
+    top: 1940px;
+    left: 335px;
+    width: 255px;
+    height: auto;
+}
+#cfootl2{
+    position: absolute;
+    top: 1960px;
+    left: 335px;
+    width: 255px;
+    height: 24px;
+}
+#cfootb3{
+    position: absolute;
+    top: 1940px;
+    left: 635px;
+    width: 255px;
+    height: auto;
+}
+#cfootl3{
+    position: absolute;
+    top: 1960px;
+    left: 635px;
+    width: 255px;
+    height: 24px;
+}
+#cfootb4{
+    position: absolute;
+    top: 1940px;
+    left: 935px;
+    width: 255px;
+    height: auto;
+}
+#cfootl4{
+    position: absolute;
+    top: 1960px;
+    left: 935px;
+    width: 255px;
+    height: 24px;
+}
+#cfootb5{
+    position: absolute;
+    top: 1940px;
+    left: 1235px;
+    width: 255px;
+    height: auto;
+}
+#cfootl5{
+    position: absolute;
+    top: 1960px;
+    left: 1235px;
+    width: 255px;
+    height: 24px;
+}
+/*YT et TW*/
+#ffoot{
+    position: absolute;
+    top: 1950px;
+    left: -10px;
+    width: 1546px;
+    height: auto;
+    object-fit: fill;
+}
+#ffootb1{
+    position: absolute;
+    top: 2040px;
+    left: 35px;
+    width: 255px;
+    height: auto;
+}
+#ffootl1{
+    position: absolute;
+    top: 2035px;
+    left: 35px;
+    width: 255px;
+    height: 24px;
+}
+#ffootb2{
+    position: absolute;
+    top: 2040px;
+    left: 335px;
+    width: 255px;
+    height: auto;
+}
+#ffootl2{
+    position: absolute;
+    top: 2060px;
+    left: 335px;
+    width: 255px;
+    height: 24px;
+}
+#ffootb3{
+    position: absolute;
+    top: 2040px;
+    left: 635px;
+    width: 255px;
+    height: auto;
+}
+#ffootl3{
+    position: absolute;
+    top: 2060px;
+    left: 635px;
+    width: 255px;
+    height: 24px;
+}
+#ffootb4{
+    position: absolute;
+    top: 2040px;
+    left: 935px;
+    width: 255px;
+    height: auto;
+}
+#ffootl4{
+    position: absolute;
+    top: 2060px;
+    left: 935px;
+    width: 255px;
+    height: 24px;
+}
+#ffootb5{
+    position: absolute;
+    top: 2040px;
+    left: 1235px;
+    width: 255px;
+    height: auto;
+}
+#ffootl5{
+    position: absolute;
+    top: 2060px;
     left: 1235px;
     width: 255px;
     height: 24px;
